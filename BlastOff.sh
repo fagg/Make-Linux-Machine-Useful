@@ -18,6 +18,8 @@ sudo apt-get install -y texlive latexmk
 
 sudo apt-get install -y apache2
 
+sudo apt-get install -y libopencv*
+
 sudo apt-get install -y libblas3 libopenblas-dev libopenblas-base libblas-common libblas-dev libblas3
 
 sudo apt-get install -y fftw3
